@@ -5,7 +5,7 @@ const LoomTruffleProvider = require('loom-truffle-provider')
 const HDWalletProvider = require('truffle-hdwallet-provider')
 
 module.exports = {
-  contracts_build_directory: join(__dirname, './src/contracts'),
+  contracts_build_directory: join(__dirname, './build/contracts'),
   compilers: {
     solc: {
       version: '0.4.24'

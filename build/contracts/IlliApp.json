@@ -1,0 +1,111 @@
+{
+  "contractName": "IlliApp",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.4.24+commit.e67f0147\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/lib/2DEV/illi-schain/contracts/IlliApp.sol\":\"IlliApp\"},\"evmVersion\":\"byzantium\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/lib/2DEV/illi-schain/contracts/IlliApp.sol\":{\"keccak256\":\"0x62ac2f62627989630bd550ef8a13ab7e6e24ed903c7a9ccd167beed5ce984646\",\"urls\":[\"bzzr://0bb413b419c6c5200a00940205b8c5e9dd794120b1e7cc3c3233014f5a6e2f7d\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3006080604052600080fd00a165627a7a723058208a2a178c2c8abbecbe8f2bba2e5521e096e6b2a3c99b75de398601510d878a3d0029",
+  "deployedBytecode": "0x6080604052600080fd00a165627a7a723058208a2a178c2c8abbecbe8f2bba2e5521e096e6b2a3c99b75de398601510d878a3d0029",
+  "sourceMap": "28:23:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;28:23:0;;;;;;;",
+  "deployedSourceMap": "28:23:0:-;;;;;",
+  "source": "pragma solidity ^0.4.23;\r\n\r\ncontract IlliApp {\r\n\r\n}",
+  "sourcePath": "C:/lib/2DEV/illi-schain/contracts/IlliApp.sol",
+  "ast": {
+    "absolutePath": "/C/lib/2DEV/illi-schain/contracts/IlliApp.sol",
+    "exportedSymbols": {
+      "IlliApp": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".23"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "IlliApp",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "28:23:0"
+      }
+    ],
+    "src": "0:51:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/lib/2DEV/illi-schain/contracts/IlliApp.sol",
+    "exportedSymbols": {
+      "IlliApp": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".23"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "IlliApp",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "28:23:0"
+      }
+    ],
+    "src": "0:51:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.24+commit.e67f0147.Emscripten.clang"
+  },
+  "networks": {
+    "13654820909954": {
+      "events": {},
+      "links": {},
+      "address": "0xC316D54CC0c1f4F5FA356a5D9cdC6D47CAdFbfD4",
+      "transactionHash": "0x26c6cac2767901726a1c07e2734e049c76cbe66feb4d04cc3e4bf936d87c299d"
+    }
+  },
+  "schemaVersion": "3.0.6",
+  "updatedAt": "2019-04-17T15:18:50.383Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
