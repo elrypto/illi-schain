@@ -1,1 +1,1 @@
-illuminate dApp - sidechain smart contracts for redux on ethereum
+illuminate dApp - sidechain smart contracts for dapp (solidity)
